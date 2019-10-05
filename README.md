@@ -1,7 +1,13 @@
-# proj-work
-This is the repository for storing all files related to my final year project on creating a "Music Recommendation system using Content Based classification".
+# (Final project work) Music Recommendation system using Content Based classification
+<table>
+<tr>
+<td>
+  This is the repository for storing all files related to my final year project on creating a "Music Recommendation system using Content Based classification".
 A full report along with a power point presentation are included to give a full overview of the theory and work used to successfully implement our recommendation system.
+</td>
+</tr>
+</table>
 
-The front-end of the application was implemented using Python and the PyQt libraries.
-
-The back-end was implemented with python, sql and the dropbox api for storing the test songs.
+##Built With
+* GUI was built with the PyQt libraries of Python
+* Backend and recommendation system where built with python, scikit-learn libraries, mysql and the dropbox api for storage and access to our songs
