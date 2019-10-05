@@ -1,4 +1,4 @@
-# (Final project work) Music Recommendation system using Content Based classification
+# (Final year project) Music Recommendation system using Content Based classification
 <table>
 <tr>
 <td>
